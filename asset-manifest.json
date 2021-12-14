@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Mar-io20/jameswebb.blog.br.git/static/css/main.a617e044.chunk.css",
-    "main.js": "/Mar-io20/jameswebb.blog.br.git/static/js/main.e1228f3a.chunk.js",
-    "main.js.map": "/Mar-io20/jameswebb.blog.br.git/static/js/main.e1228f3a.chunk.js.map",
-    "runtime-main.js": "/Mar-io20/jameswebb.blog.br.git/static/js/runtime-main.80a3cb9e.js",
-    "runtime-main.js.map": "/Mar-io20/jameswebb.blog.br.git/static/js/runtime-main.80a3cb9e.js.map",
-    "static/js/2.bf342ba4.chunk.js": "/Mar-io20/jameswebb.blog.br.git/static/js/2.bf342ba4.chunk.js",
-    "static/js/2.bf342ba4.chunk.js.map": "/Mar-io20/jameswebb.blog.br.git/static/js/2.bf342ba4.chunk.js.map",
-    "static/js/3.421e50ad.chunk.js": "/Mar-io20/jameswebb.blog.br.git/static/js/3.421e50ad.chunk.js",
-    "static/js/3.421e50ad.chunk.js.map": "/Mar-io20/jameswebb.blog.br.git/static/js/3.421e50ad.chunk.js.map",
-    "index.html": "/Mar-io20/jameswebb.blog.br.git/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/Mar-io20/jameswebb.blog.br.git/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.bf342ba4.chunk.js.LICENSE.txt": "/Mar-io20/jameswebb.blog.br.git/static/js/2.bf342ba4.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Mar-io20/jameswebb.blog.br.git/static/media/logo.6ce24c58.svg"
+    "main.css": "/jameswebb.blog.br/static/css/main.a617e044.chunk.css",
+    "main.js": "/jameswebb.blog.br/static/js/main.e1228f3a.chunk.js",
+    "main.js.map": "/jameswebb.blog.br/static/js/main.e1228f3a.chunk.js.map",
+    "runtime-main.js": "/jameswebb.blog.br/static/js/runtime-main.761cc152.js",
+    "runtime-main.js.map": "/jameswebb.blog.br/static/js/runtime-main.761cc152.js.map",
+    "static/js/2.bf342ba4.chunk.js": "/jameswebb.blog.br/static/js/2.bf342ba4.chunk.js",
+    "static/js/2.bf342ba4.chunk.js.map": "/jameswebb.blog.br/static/js/2.bf342ba4.chunk.js.map",
+    "static/js/3.421e50ad.chunk.js": "/jameswebb.blog.br/static/js/3.421e50ad.chunk.js",
+    "static/js/3.421e50ad.chunk.js.map": "/jameswebb.blog.br/static/js/3.421e50ad.chunk.js.map",
+    "index.html": "/jameswebb.blog.br/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/jameswebb.blog.br/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.bf342ba4.chunk.js.LICENSE.txt": "/jameswebb.blog.br/static/js/2.bf342ba4.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/jameswebb.blog.br/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.80a3cb9e.js",
+    "static/js/runtime-main.761cc152.js",
     "static/js/2.bf342ba4.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.e1228f3a.chunk.js"
