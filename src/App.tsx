@@ -1,14 +1,15 @@
 import React from 'react';
-import logo from './logo.svg';
+import Erro404 from './img/Erro404.svg'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={Erro404} alt="Erro404" className='App-logo' />
         <p>
-          <code>Fotos do James Web</code>
+          <code>Fotos do James Web</code><br />
+          <code>Aqui vão aparecer as fotos do James Webb, previsto para lançamento dia 24/12/2021</code>
         </p>
         <a
           className="App-link"
@@ -16,10 +17,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
         </a>
       </header>
-      <h1>teste de renderização</h1>
     </div>
   );
 }
