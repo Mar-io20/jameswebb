@@ -1,3 +1,6 @@
+body {
+    background: #334756;
+}
 .container {
     display: flex;
     justify-content: center;
