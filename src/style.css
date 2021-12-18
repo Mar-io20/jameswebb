@@ -25,5 +25,16 @@
 
 @media (max-width: 750px) {
     
+    .header {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .tituloPrincipal {
+        margin: 0 auto;
+    }
+    .btn-link-nav {
+        margin: 0 auto;
+    }
     
 }
