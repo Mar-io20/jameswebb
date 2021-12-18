@@ -8,8 +8,8 @@ function App() {
     <div className="App">
       <div className="container">
         <div className="header">
-            <h1 className="tituloPrincipal">JAMES WEBB</h1>
-            <button className="btn-link-nav">Fotos</button>
+          <h1 className="tituloPrincipal">JAMES WEBB</h1>
+          <button className="btn-link-nav">Fotos</button>
         </div>
       </div>
     </div>
