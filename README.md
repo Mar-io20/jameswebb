@@ -5,6 +5,13 @@ O Telescopio James webb já está pronto para o lançamento no dia 25/12/2021, e
 
 Guardar e explicar as imagens feitas com o James Webb em diferentes idiomas e com uma linguagem de facil entendimento, sempre muito bem embasado e com referencias comfiaveis de sites como [Nasa](https://www.nasa.gov/) | [Spacetoday](https://spacetoday.com.br/) | canais do [ScienceVlogsBrasil](https://sciencevlogsbrasil.com.br/)
 
+## Tecnologias usadas
+
+- react 
+- TypeScript 
+- Css 
+- HTML 
+
 ## O projeto desse Blog é Open-Source?
 
 Sim, você pode contribuir, dar pitaco, criticar, recomendar, ou apoiar o projeto. Mas lembre sempre de contribuir para uma comunidade amigavel
